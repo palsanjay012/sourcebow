@@ -307,13 +307,13 @@ As an Indian Web Development Company, we are known for creating intelligent and 
                             <div class="work-item" data-position="0">
                                 <div class="row">
                                     <div class="col-12 col-lg-7">
-                                        <img class="img-fluid" src="./images/1(1).jpg" alt="">
+                                        <img class="img-fluid" src="./images/listiboster-images.jpg" alt="">
                                     </div>
                                     <div class="col-12 col-lg-5">
                                         <div class="work-title">
                                             <h2>Midnight Town</h2>
                                             <p>Web Development, UI / UX</p>
-                                            <a class="button-work purple-gradient" href="http://sourebow/index-1.html">View
+                                            <a class="button-work dark-orange-gradient" href="http://sourebow/index-1.html">View
                                                 Project</a>
                                         </div>
                                     </div>
@@ -324,13 +324,13 @@ As an Indian Web Development Company, we are known for creating intelligent and 
                             <div class="work-item" data-position="1">
                                 <div class="row">
                                     <div class="col-12 col-lg-7">
-                                        <img class="img-fluid" src="./images/2(1).jpg" alt="">
+                                        <img class="img-fluid" src="./images/keyboom-images.jpg" alt="">
                                     </div>
                                     <div class="col-12 col-lg-5">
                                         <div class="work-title">
                                             <h2>Panorama</h2>
                                             <p>Photography / Video</p>
-                                            <a class="button-work green-gradient" href="http://sourebow/index-1.html">View
+                                            <a class="button-work orange-gradient" href="http://sourebow/index-1.html">View
                                                 Project</a>
                                         </div>
                                     </div>
@@ -341,13 +341,13 @@ As an Indian Web Development Company, we are known for creating intelligent and 
                             <div class="work-item" data-position="2">
                                 <div class="row">
                                     <div class="col-12 col-lg-7">
-                                        <img class="img-fluid" src="./images/3(1).jpg" alt="">
+                                        <img class="img-fluid" src="./images/perzue-images.jpg" alt="">
                                     </div>
                                     <div class="col-12 col-lg-5">
                                         <div class="work-title">
                                             <h2>Mombasa</h2>
                                             <p>Branding / Art Direction</p>
-                                            <a class="button-work pink-gradient" href="http://sourebow/index-1.html">View
+                                            <a class="button-work green-gradient" href="http://sourebow/index-1.html">View
                                                 Project</a>
                                         </div>
                                     </div>
@@ -358,19 +358,24 @@ As an Indian Web Development Company, we are known for creating intelligent and 
                             <div class="work-item" data-position="3">
                                 <div class="row">
                                     <div class="col-12 col-lg-7">
-                                        <img class="img-fluid" src="./images/4(1).jpg" alt="">
+                                        <img class="img-fluid" src="./images/mayer-images.jpg" alt="">
                                     </div>
                                     <div class="col-12 col-lg-5">
                                         <div class="work-title">
                                             <h2>Of Monsters and Men</h2>
                                             <p>Web Development, UI / UX</p>
-                                            <a class="button-work dark-orange-gradient" href="http://sourebow/index-1.html">View
+                                            <a class="button-work orange-gradient" href="http://sourebow/index-1.html">View
                                                 Project</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+                     
+
+
+
                     </div>
                 </div>
                 <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span

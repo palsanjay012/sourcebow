@@ -25,12 +25,12 @@
                     <div class="col-lg-6 mt-30">
                         <div class="work-item-all">
                             <div class="img">
-                                <img class="img-fluid" src="./images/1_002.jpg" alt="">
+                                <img class="img-fluid" src="./images/listiboster-images.jpg" alt="">
                             </div>
                             <div class="all-work-text  text-center">
                                 <h3>Midnight Town</h3>
                                 <p>UI/UX, Web Development</p>
-                                <a class="button-work purple-gradient" href="">View Project</a>
+                                <a class="button-work blue-gradient" href="">View Project</a>
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                     <div class="col-lg-6 mt-30">
                         <div class="work-item-all">
                             <div class="img">
-                                <img class="img-fluid" src="./images/2_002.jpg" alt="">
+                                <img class="img-fluid" src="./images/keyboom-images.jpg" alt="">
                             </div>
                             <div class="all-work-text  text-center">
                                 <h3>Lake Mountain</h3>
@@ -50,12 +50,12 @@
                     <div class="col-lg-6 mt-30">
                         <div class="work-item-all">
                             <div class="img">
-                                <img class="img-fluid" src="./images/4_002.jpg" alt="">
+                                <img class="img-fluid" src="./images/perzue-images.jpg" alt="">
                             </div>
                             <div class="all-work-text  text-center">
                                 <h3>Letterys</h3>
                                 <p>UI/UX, Web Development</p>
-                                <a class="button-work dark-orange-gradient" href="">View Project</a>
+                                <a class="button-work orange-gradient" href="">View Project</a>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,86 @@
                     <div class="col-lg-6 mt-30">
                         <div class="work-item-all">
                             <div class="img">
-                                <img class="img-fluid" src="./images/3_002.jpg" alt="">
+                                <img class="img-fluid" src="./images/mayer-images.jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/markehub-images .jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/teamplyare-images.jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/dental-images.jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/mnr-images-.jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/aakriti-images.jpg" alt="">
+                            </div>
+                            <div class="all-work-text  text-center">
+                                <h3>Mombasa</h3>
+                                <p>Branding</p>
+                                <a class="button-work pink-gradient" href="">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-30">
+                        <div class="work-item-all">
+                            <div class="img">
+                                <img class="img-fluid" src="./images/justprovid-images.jpg" alt="">
                             </div>
                             <div class="all-work-text  text-center">
                                 <h3>Mombasa</h3>
